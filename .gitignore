@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+.git
+
+.ipynb_checkpoints
+
+etc
+
+share
+
+Lib
+pyvenv.cfg
+Scripts
+
+remove.txt
+
